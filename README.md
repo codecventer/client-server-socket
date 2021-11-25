@@ -1,4 +1,4 @@
-## Client Server Sockets
+## Client Server Socket
 This application makes use of a web socket in order for a client application and server application to communicate with each other in order to write the user's input to a newly created text file.
 
 ## Motivation
